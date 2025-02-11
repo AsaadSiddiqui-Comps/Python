@@ -1,8 +1,8 @@
 # NAME: Siddiqui Mohammed Asaad Shakir
 #Roll no: 241258
 #Branch:computer engineering   Batch: B3
-# PROGRAM NO 1-B
-#program to demonstrate input/output function */
+#MModule 1
+# PROGRAM NO 4
 #Exploring Basic Arithmetic Operations in Python
 
 def operation(num1, num2, function):
