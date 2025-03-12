@@ -7,7 +7,7 @@
 # Currency Convert:- INR to USD
 inr = float(input("Enter the amount in INR: "))
 usd = inr * 0.014
-print(f"The equivalent amount in USD is: {usd}")
+print(f"The amount in USD is: {usd}")
 
 # Temperature Convert:- Celsius to Fahrenheit
 celsius = float(input("Enter the temperature in celsius: "))
