@@ -1,3 +1,6 @@
-P=int(input("Enter your desired no. : ")) fact=1
-for i in range (1, P+1): fact*=i
-print("Your answer to the given factorial is:", fact)
+a = 0
+b = 1
+n= int(input("Fibonacci: "))
+for i in range(n):
+    print(a)
+    a,b=b,a+b
